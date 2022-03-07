@@ -1,3 +1,5 @@
 - Curso de GIT - Platzi.
 - Iniciando un nuevo reto con esta herramienta de control de versiones.
-- Nueva linea validado otro commit para el archivo
+- Nueva linea validado otro commit para el archivo.
+- Aprendiendo nuevos comandos de GIT, git commit, git show, git status, etc.
+- Nuevo COMMIT sin el modulo -m
