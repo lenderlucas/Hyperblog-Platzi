@@ -1,0 +1,3 @@
+- Curso de GIT - Platzi.
+- Iniciando un nuevo reto con esta herramienta de control de versiones.
+- 
